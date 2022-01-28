@@ -1,2 +1,2 @@
-# resgate
-Joguinho onde o jogador é um helicoptero que se move para cima e para baixo e deve resgatar seu amigo no solo enquanto mata dois inimigos, criado utilizando JS, HTML, CSS , Jquery, com animações de movimento.
+# Resgate
+Joguinho onde o personagem jogador é um helicóptero que deve resgatar a menina que está na floresta enquanto outro helicóptero tenta ataca-lo e antes que a pedra gigante mate -a, para criação foi usando JS, HTML, CSS e Jquery
